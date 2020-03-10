@@ -1,4 +1,6 @@
-# Iedereen die op 1 januari 2020 ten minste 6 jaar oud is mag lid worden van onze vereniging. Junioren, dat zijn leden die op 1 januari 2020 jonger zijn dan 18 jaar, betalen in 2020 een contributie van € 100.
+# versie 5, meer generiek gemaakt en foutcontroles toegevoegd
+# Iedereen die op 1 januari 2020 ten minste 6 jaar oud is mag lid worden van onze vereniging.Junioren, dat zijn leden die op 1 januari 2020 jonger zijn dan 18 jaar betalen
+# in 2020 een contributie van € 100.
 # Senioren, op 1 januari 2020 18 jaar of ouder, betalen in 2020 € 175. Leden die in 2020 lid worden betalen eenmalig € 25 administratiekosten, ongeacht op welk moment van het jaar
 # het lidmaatschap ingaat. Als het lidmaatschap gedurende het jaar ingaat dan wordt de contributie evenredig berekend over het resterende aantal maanden in 2020 met ingang van
 # de maand volgend op de maand waarop iemand zich aanmeldt als lid.
